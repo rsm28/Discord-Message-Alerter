@@ -28,5 +28,5 @@ In the root folder, create a config.json file, and format it as such:
 ```json
     "token": "[bot token]",
     "user_id": "[user id]",
-    "openai_api_key": "[openai api key]
+    "openai_api_key": "[openai api key]"
 ```
